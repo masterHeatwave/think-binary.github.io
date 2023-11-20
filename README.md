@@ -1,2 +1,2 @@
-# thinkBinary
+# think-binary
 My personal-portfolio website 
